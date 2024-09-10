@@ -9,7 +9,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 
 const App = () => {
-  const Url = "http://localhost:3000";
+  const Url = "https://backend-0qox.onrender.com";
   return (
     <div className="app">
       <ToastContainer/>
